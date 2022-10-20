@@ -8,6 +8,7 @@
 </head>
 <body>
 
+<%--placeholder menu--%>
 <div align="center" class="topnav">
     <a class="active" href="#home">Home</a>
     <a href="#about">About</a>
